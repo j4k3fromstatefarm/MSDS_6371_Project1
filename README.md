@@ -2,6 +2,7 @@
 title: "Case Study One:  Beers and Breweries, a Data Analysis"
 authors: "Alexander Sepenu, Ana Alfaro and Jake Harrison"
 
+The goal of this initiative is to assess the beer and brewery market data, identify trends and advice on opportunities to monetize the findings.
 
 For Fifty Stater Package - 
 
