@@ -1,6 +1,7 @@
 # TEAM AJA CASE STUDY 1
-title: "Case Study One:  Beers and Breweries, a Data Analysis"
-authors: "Alexander Sepenu, Ana Alfaro and Jake Harrison"
+Title: Case Study One:  Beers and Breweries, a Data Analysis
+
+Authors: Alexander Sepenu, Ana Alfaro and Jake Harrison
 
 
 For Fifty Stater Package - 
