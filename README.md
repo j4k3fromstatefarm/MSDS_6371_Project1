@@ -13,3 +13,5 @@ https://cran.r-project.org/src/contrib/Archive/fiftystater/fiftystater_1.0.1.tar
 3. Select downloaded file from folder location
 
 4. Click Install
+
+ZIP FILE AVAILABLE FOR SINGLE FILE DOWNLOAD IF PREFERRED
