@@ -6,7 +6,7 @@ Authors: "Alexander Sepenu, Ana Alfaro and Jake Harrison"
 The goal of this initiative is to assess the beer and brewery market data, identify trends and advice on opportunities to monetize the findings.
 
 Repository content:
-- Zip file with RMD, HTML and supporting csv files
+- Codebook with RMD, HTML and supporting csv files
 - Team Powerpoint presentation
 - Team YouTube presentation link document
 
